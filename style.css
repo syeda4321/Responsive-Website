@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+   background-color:#4CAF4F ;
+   border: none;
+}
+span{
+    color: #4CAF4F;
+}
+.navbar-nav{
+    margin-left: 500px;
+    margin-top: 2px;
+    padding: 0px;
+}
+.navbar {
+    background-color: #FFFFFF;
+}
+.hero{
+    background-color: #F5F7FA;
+    height: 700px;
+}
+.image{
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.hero{
+    border: none;
+}
+.business{
+    background-color: #F5F7FA;
+    hei: 300px;
+}
