@@ -10,7 +10,7 @@ span{
     color: #4CAF4F;
 }
 .navbar-nav{
-    margin-left: 500px;
+    margin-left: 900px;
     margin-top: 2px;
     padding: 0px;
 }
@@ -25,12 +25,29 @@ span{
     width: 50px;
     justify-content: center;
     align-items: center;
-    
 }
 .hero{
     border: none;
 }
 .business{
     background-color: #F5F7FA;
-    hei: 300px;
+    height: 300px;
+}
+.aisha{
+     background-color: #F5F7FA;
+    margin-bottom: 10px;
+
+    height: 400px;
+}
+.vscode{
+    margin-left: 700px;
+    border-radius: 1px;
+}
+.paragraph{
+    background-color:#F5F7FA ;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+.assignment{
+    background-color: black;
 }
