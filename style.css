@@ -35,21 +35,48 @@ span{
     background-color: #F5F7FA;
     height: 300px;
 }
-.aisha{
-     background-color: #F5F7FA;
-    margin-bottom: 10px;
+.assi{
+    background-color: #F5F7FA !important;
+    width: 100%;
+}
 
-    height: 400px;
+/* helping section */
+.helping-section-wrapper {
+  background: rgba(245, 247, 250, 1);
+  width: 100%;
 }
-.vscode{
-    margin-left: 700px;
-    border-radius: 1px;
+/* second last section */
+.secondlast-section{
+  text-align: center;
+  
 }
-.paragraph{
-    /* background-color:#F5F7FA ; */
-    padding-top: 20px;
-    margin-top: 10px;
+.secondlast-section h1{
+color: rgba(38, 50, 56, 1);
+opacity: 1;
 }
-.assignment{
-    background-color: black;
+
+/* footer section */
+.footer-section {
+  background: rgba(38, 50, 56, 1);
+  color:rgba(245, 247, 250, 1);
+  width: 100%;
+ 
+}
+
+.footer-section h3 {
+  color:rgba(245, 247, 250, 1);
+
+}
+
+.footer-section p,
+.footer-section a,
+.footer-section li{
+
+  color:rgba(245, 247, 250, 1);
+
+}
+
+.footer-section ul {
+  padding-left: 0;
+  list-style: none;
 }
